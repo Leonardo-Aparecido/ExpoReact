@@ -1,3 +1,8 @@
 # ExpoReact
 Repositorio dedicato ao curso de inverno de React Native lecionado pela professora Denise.
-![Pasted image 20240725141334](https://github.com/user-attachments/assets/5d132641-ece9-4b15-b012-d5d4cf0f4dc6)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/463fbaad-17d7-4639-af67-7c3de949f168" alt="drawing" width="200" />
+  
+
+</p>
